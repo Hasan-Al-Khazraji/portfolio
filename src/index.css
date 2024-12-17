@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "pixels";
+  src: url("/public/fonts/easvhs.ttf");
+}
+
+body {
+  margin: 0;
+  font-family: "pixels";
+  background-color: #121212;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
