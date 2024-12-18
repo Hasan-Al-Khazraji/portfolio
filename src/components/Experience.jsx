@@ -15,8 +15,8 @@ export default function Experience() {
                 </li>
                 <li className="mb-10 ms-4">
                     <div className="absolute w-3 h-3 bg-gray-700 rounded-full mt-1.5 -start-1.5 border border-gray-900"></div>
-                    <h3 className="text-white text-md">Youtube Analytics Consultant</h3>
-                    <h4 className="text-gray-500 text-sm">Self-Employed</h4>
+                    <h3 className="text-white text-md">Google Developer Student Club</h3>
+                    <h4 className="text-gray-500 text-sm">Technical Director</h4>
                 </li>
             </ol>
         </div>
