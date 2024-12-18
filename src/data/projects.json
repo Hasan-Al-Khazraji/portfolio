@@ -14,7 +14,7 @@
         },
         {
             "projectName": "Modern Record Player ",
-            "redirect": "https://github.com/Hasan-Al-Khazraji/perennail",
+            "redirect": "https://github.com/Hasan-Al-Khazraji/Notely-Modern-Day-Record-Player",
             "description": "Modern Day Record Player With Mini Vinyl 🎶",
             "techStack": "Python, Spotify API, Raspberry Pi, RFID"
         }
