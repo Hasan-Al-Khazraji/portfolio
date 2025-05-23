@@ -4,7 +4,7 @@ export default function Experience() {
             <h1 className="text-white text-2xl mb-3"><a className="text-orange-500 text-2xl">*</a> Experience</h1>
             <ol className="relative border-l-2 border-gray-900">
                 <li className="mb-10 ms-4">
-                    <div className="absolute w-3 h-3 bg-gray-500 rounded-full mt-1.5 -start-1.5 border border-gray-900"></div>
+                    <div className="absolute w-3 h-3 bg-gray-500 rounded-full mt-6 -start-1.5 border border-gray-900"></div>
                     <div className="flex items-center gap-2 group">
                         <img src="Shop.png" alt="Shopify" className='w-[56px] filter contrast-120 saturate-150 transform transition-transform duration-300 ease-out group-hover:scale-110 group-hover:translate-x-1' />
                         <div>
@@ -15,7 +15,7 @@ export default function Experience() {
                     </div>
                 </li>
                 <li className="mb-10 ms-4">
-                    <div className="absolute w-3 h-3 bg-gray-700 rounded-full mt-1.5 -start-1.5 border border-gray-900"></div>
+                    <div className="absolute w-3 h-3 bg-gray-700 rounded-full mt-6 -start-1.5 border border-gray-900"></div>
                     <div className="flex items-center gap-2 group">
                         <img src="Rocket.png" alt="Rocket" className='w-[56px] filter contrast-120 saturate-150 transform transition-transform duration-300 ease-out group-hover:scale-110 group-hover:translate-x-1' />
                         <div>
@@ -26,7 +26,7 @@ export default function Experience() {
                     </div>
                 </li>
                 <li className="mb-10 ms-4">
-                    <div className="absolute w-3 h-3 bg-gray-700 rounded-full mt-1.5 -start-1.5 border border-gray-900"></div>
+                    <div className="absolute w-3 h-3 bg-gray-700 rounded-full mt-6 -start-1.5 border border-gray-900"></div>
                     <div className="flex items-center gap-2 group">
                         <img src="GDSC.png" alt="GDSC" className='w-[56px] filter contrast-120 saturate-150 transform transition-transform duration-300 ease-out group-hover:scale-110 group-hover:translate-x-1' />
                         <div>
