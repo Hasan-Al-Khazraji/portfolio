@@ -5,18 +5,36 @@ export default function Experience() {
             <ol className="relative border-l-2 border-gray-900">
                 <li className="mb-10 ms-4">
                     <div className="absolute w-3 h-3 bg-gray-500 rounded-full mt-1.5 -start-1.5 border border-gray-900"></div>
-                    <h3 className="text-white text-md">Software Engineering Intern - Money Tooling</h3>
-                    <h4 className="text-gray-500 text-sm">Shopify</h4>
+                    <div className="flex items-center gap-2 group">
+                        <img src="Shop.png" alt="Shopify" className='w-[56px] filter contrast-120 saturate-150 transform transition-transform duration-300 ease-out group-hover:scale-110 group-hover:translate-x-1' />
+                        <div>
+                            <h3 className="text-white text-md translate-x-1 group-hover:translate-x-3 transition-all duration-300">Software Engineering Intern - Payments KYC and Remediation</h3>
+                            <h4 className="text-gray-500 text-sm translate-x-1 group-hover:translate-x-3 transition-all duration-300">Shopify</h4> 
+                            <h5 className="text-gray-500 text-xs translate-x-1 group-hover:translate-x-3 transition-all duration-300">Ruby on Rails, GraphQL, MySQL, GCP, TypeScript</h5>
+                        </div>
+                    </div>
                 </li>
                 <li className="mb-10 ms-4">
                     <div className="absolute w-3 h-3 bg-gray-700 rounded-full mt-1.5 -start-1.5 border border-gray-900"></div>
-                    <h3 className="text-white text-md">Software Developer Co-op</h3>
-                    <h4 className="text-gray-500 text-sm">Rocket Companies</h4>
+                    <div className="flex items-center gap-2 group">
+                        <img src="Rocket.png" alt="Rocket" className='w-[56px] filter contrast-120 saturate-150 transform transition-transform duration-300 ease-out group-hover:scale-110 group-hover:translate-x-1' />
+                        <div>
+                            <h3 className="text-white text-md translate-x-1 group-hover:translate-x-3 transition-all duration-300">Software Developer Co-op</h3>
+                            <h4 className="text-gray-500 text-sm translate-x-1 group-hover:translate-x-3 transition-all duration-300">Rocket Companies</h4>
+                            <h5 className="text-gray-500 text-xs translate-x-1 group-hover:translate-x-3 transition-all duration-300">React, TypeScript, NestJS, AWS, Cypress.io</h5>
+                        </div>
+                    </div>
                 </li>
                 <li className="mb-10 ms-4">
                     <div className="absolute w-3 h-3 bg-gray-700 rounded-full mt-1.5 -start-1.5 border border-gray-900"></div>
-                    <h3 className="text-white text-md">Google Developer Student Club</h3>
-                    <h4 className="text-gray-500 text-sm">Technical Director</h4>
+                    <div className="flex items-center gap-2 group">
+                        <img src="GDSC.png" alt="GDSC" className='w-[56px] filter contrast-120 saturate-150 transform transition-transform duration-300 ease-out group-hover:scale-110 group-hover:translate-x-1' />
+                        <div>
+                            <h3 className="text-white text-md translate-x-1 group-hover:translate-x-3 transition-all duration-300">Technical Director</h3>
+                            <h4 className="text-gray-500 text-sm translate-x-1 group-hover:translate-x-3 transition-all duration-300">Google Developer Student Club</h4>
+                            <h5 className="text-gray-500 text-xs translate-x-1 group-hover:translate-x-3 transition-all duration-300">Golang, React, Python,TypeScript</h5>
+                        </div>
+                    </div>
                 </li>
             </ol>
         </div>
