@@ -1,22 +1,22 @@
 {
     "projects": [
         {
-            "projectName": "PerennAI.l",
-            "redirect": "https://github.com/Hasan-Al-Khazraji/perennail",
-            "description": "AI Plant Doctor 🌱 - Google Developer Student Club Hackathon - First Place",
-            "techStack": "JavaScript, Python, React, Flask, Firebase, Tensorflow, Node.js"
-        },
-        {
             "projectName": "Go Fish",
             "redirect": "https://github.com/Luthiraa/Go-Fish",
             "description": "Optimized AI Search Engine 🐠 - Hack The North 2024",
             "techStack": "Python, Flask, Typescript, React, Groq API"
         },
         {
-            "projectName": "Modern Record Player ",
-            "redirect": "https://github.com/Hasan-Al-Khazraji/Notely-Modern-Day-Record-Player",
-            "description": "Modern Day Record Player With Mini Vinyl 🎶",
-            "techStack": "Python, Spotify API, Raspberry Pi, RFID"
+            "projectName": "CuckooCache",
+            "redirect": "https://github.com/Hasan-Al-Khazraji/CuckooCache",
+            "description": "Cuckoo-hashed, high-throughput in-memory cache 🐦",
+            "techStack": "Golang"
+        },
+        {
+            "projectName": "AutoShorts",
+            "redirect": "https://github.com/Hasan-Al-Khazraji/AutoShorts",
+            "description": "Automated YouTube Shorts Creator 📲",
+            "techStack": "Python, Gemini API"
         }
     ]
 }

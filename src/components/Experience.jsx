@@ -6,10 +6,21 @@ export default function Experience() {
                 <li className="mb-10 ms-4">
                     <div className="absolute w-3 h-3 bg-gray-500 rounded-full mt-6 -start-1.5 border border-gray-900"></div>
                     <div className="flex items-center gap-2 group">
+                        <img src="Tesla.png" alt="Tesla" className='w-[56px] filter contrast-120 saturate-150 transform transition-transform duration-300 ease-out group-hover:scale-110 group-hover:translate-x-1' />
+                        <div>
+                            <h3 className="text-white text-md translate-x-1 group-hover:translate-x-3 transition-all duration-300">Software Engineering Intern</h3>
+                            <h4 className="text-gray-500 text-sm translate-x-1 group-hover:translate-x-3 transition-all duration-300">Tesla - Integration Platform Vehicle Firmware</h4> 
+                            <h5 className="text-gray-500 text-xs translate-x-1 group-hover:translate-x-3 transition-all duration-300">Golang, Python, TypeScript</h5>
+                        </div>
+                    </div>
+                </li>
+                <li className="mb-10 ms-4">
+                    <div className="absolute w-3 h-3 bg-gray-700 rounded-full mt-6 -start-1.5 border border-gray-900"></div>
+                    <div className="flex items-center gap-2 group">
                         <img src="Shop.png" alt="Shopify" className='w-[56px] filter contrast-120 saturate-150 transform transition-transform duration-300 ease-out group-hover:scale-110 group-hover:translate-x-1' />
                         <div>
-                            <h3 className="text-white text-md translate-x-1 group-hover:translate-x-3 transition-all duration-300">Software Engineering Intern - Payments KYC and Remediation</h3>
-                            <h4 className="text-gray-500 text-sm translate-x-1 group-hover:translate-x-3 transition-all duration-300">Shopify</h4> 
+                            <h3 className="text-white text-md translate-x-1 group-hover:translate-x-3 transition-all duration-300">Software Engineering Intern</h3>
+                            <h4 className="text-gray-500 text-sm translate-x-1 group-hover:translate-x-3 transition-all duration-300">Shopify - Payments KYC and Remediation</h4> 
                             <h5 className="text-gray-500 text-xs translate-x-1 group-hover:translate-x-3 transition-all duration-300">Ruby on Rails, GraphQL, MySQL, GCP, TypeScript</h5>
                         </div>
                     </div>
